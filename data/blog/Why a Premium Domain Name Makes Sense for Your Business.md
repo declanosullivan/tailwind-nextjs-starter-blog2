@@ -1,5 +1,5 @@
 ---
-title: 'TBC'
+title: 'Why a Premium Domain Name Makes Sense for Your Business'
 date: '2020-12-21'
 tags: ['domains']
 draft: false

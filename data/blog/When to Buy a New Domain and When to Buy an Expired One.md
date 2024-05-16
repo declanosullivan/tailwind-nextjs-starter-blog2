@@ -1,5 +1,5 @@
 ---
-title: 'TBC'
+title: ' When to Buy a New Domain and When to Buy an Expired One'
 date: '2020-12-21'
 tags: ['domains']
 draft: false

@@ -1,4 +1,12 @@
-# When to Buy a New Domain and When to Buy an Expired One
+---
+title: 'TBC'
+date: '2020-12-21'
+tags: ['domains']
+draft: false
+summary: 'TBC'
+---
+
+ When to Buy a New Domain and When to Buy an Expired One
 
 ## The Domain Selection Dilemma
 

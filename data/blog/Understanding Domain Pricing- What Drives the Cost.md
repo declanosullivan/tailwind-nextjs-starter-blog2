@@ -1,4 +1,12 @@
-### Understanding Domain Pricing: What Drives the Cost?
+---
+title: 'TBC'
+date: '2020-12-21'
+tags: ['domains']
+draft: false
+summary: 'TBC'
+---
+
+## Understanding Domain Pricing: What Drives the Cost?
 
 **Factors that influence domain pricing**
 

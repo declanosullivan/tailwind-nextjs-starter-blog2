@@ -1,3 +1,11 @@
+---
+title: Deriving the OLS Estimator
+date: '2020-12-21'
+tags: ['next js', 'math', 'ols']
+draft: false
+summary: 'How to derive the OLS Estimator with matrix notation and a tour of math typesetting using markdown with the help of KaTeX.'
+---
+
 # Comparing Domain Prices Globally: A 2023 Overview
 
 In today's digital era, the significance of domain names in establishing and maintaining an online presence is profound. As a gateway to the online world, domain names are pivotal in branding, visibility, and credibility. This article delves into the multifaceted aspects of domain pricing in 2023, offering insights and strategies for businesses and individuals looking to navigate this crucial component of their digital strategy.

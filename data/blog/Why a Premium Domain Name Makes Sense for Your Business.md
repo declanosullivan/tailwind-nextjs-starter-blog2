@@ -1,3 +1,10 @@
+---
+title: 'TBC'
+date: '2020-12-21'
+tags: ['domains']
+draft: false
+summary: 'TBC'
+---
 
 # Why a Premium Domain Name Makes Sense for Your Business
 
